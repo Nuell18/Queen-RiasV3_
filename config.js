@@ -7,7 +7,7 @@ module.exports = {
 
     ownerNumber: process.env.OWNER_NUMBER || "2348165846414", // Your WhatsApp number
 
-    mode: process.env.MODE || "public", // Bot mode: 'public' or 'private'
+    mode: process.env.MODE || "private", // Bot mode: 'public' or 'private'
 
     region: process.env.REGION || "Nigeria", // Region
 
